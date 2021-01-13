@@ -14,12 +14,4 @@ Table of contents
 .. toctree::
     :maxdepth: 2
 
-    prologue/index
-    getting_started/index
-    basics/index
-    app_development/index
-    core/index
-    digging_deeper/index
-    app_publishing_maintenance/index
-    design/index
     client_apis/index
