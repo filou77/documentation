@@ -68,7 +68,7 @@ project = u'Medical Cloud %s Developer Manual' % (version)
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build', 'app_development']
+exclude_patterns = ['_build', 'app_development', 'app_publishing_maintenance', 'basics', 'basics/front-end', 'basics/storage', 'client_apis', 'client_apis/android_library', 'client_apis/OCS', 'client_apis/RemoteWipe', 'core', 'design', 'digging_deeper', 'getting_started', 'how_to', 'prologue', 'prologue/bugtracker']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
