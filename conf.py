@@ -56,16 +56,12 @@ html_context = {
 	'current_version': version,
 	'READTHEDOCS': True,
 	'extra_css_files': ['_static/custom.css'],
-
 	# force github plugin
 	#'display_github': True,
 	#'github_user': 'nextcloud',
 	#'github_repo': 'documentation',
 	# If current version is an int, use the stablexxx branches, otherwise, edit on master
 	#'theme_vcs_pageview_mode': 'edit/%s/' % github_branch, # to be completed by each individual conf.py
-	"display_github": False, # Add 'Edit on Github' link instead of 'View page source'
-	"last_updated": True,
-	"commit": False,
 }
 
 #edit_on_github_project = 'nextcloud/documentation'
