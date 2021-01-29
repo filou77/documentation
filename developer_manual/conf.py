@@ -68,7 +68,7 @@ project = u'Medical Cloud %s Developer Manual' % (version)
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
-exclude_patterns = ['_build']
+exclude_patterns = ['_build', 'app_development']
 
 # The reST default role (used for this markup: `text`) to use for all documents.
 #default_role = None
@@ -299,10 +299,10 @@ epub_copyright = u'2012-2017, The Nextcloud developers'
 todo_include_todos = True
 
 # allow to reference other documenation
-intersphinx_mapping = {
-  'admin_manual': ('https://docs.nextcloud.com/server/%s/admin_manual/' % (version), '../admin_manual/_build/html/com/objects.inv'),
-  'user_manual': ('https://docs.nextcloud.com/server/%s/user_manual/en/' % (version), '../user_manual/_build/html/en/objects.inv'),
-}
+#intersphinx_mapping = {
+#  'admin_manual': ('https://docs.nextcloud.com/server/%s/admin_manual/' % (version), '../admin_manual/_build/html/com/objects.inv'),
+#  'user_manual': ('https://docs.nextcloud.com/server/%s/user_manual/en/' % (version), '../user_manual/_build/html/en/objects.inv'),
+#}
 
 current_docs = 'developer_manual'
 
