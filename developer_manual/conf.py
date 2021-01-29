@@ -90,7 +90,7 @@ pygments_style = 'sphinx'
 # A list of ignored prefixes for module index sorting.
 #modindex_common_prefix = []
 
-search.ignore = ['app_development/*', 'app_publishing_maintenance/*', 'basics/*', 'basics/front-end/*', 'basics/storage/*', 'client_apis/*', 'client_apis/android_library/*', 'client_apis/OCS/*', 'client_apis/RemoteWipe/*', 'core/*', 'design/*', 'digging_deeper/*', 'getting_started/*', 'how_to/*', 'prologue/*', 'prologue/bugtracker/*']
+#search.ignore = ['app_development/*', 'app_publishing_maintenance/*', 'basics/*', 'basics/front-end/*', 'basics/storage/*', 'client_apis/*', 'client_apis/android_library/*', 'client_apis/OCS/*', 'client_apis/RemoteWipe/*', 'core/*', 'design/*', 'digging_deeper/*', 'getting_started/*', 'how_to/*', 'prologue/*', 'prologue/bugtracker/*']
 
 # -- Options for HTML output ---------------------------------------------------
 
