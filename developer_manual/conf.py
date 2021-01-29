@@ -239,7 +239,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'NextcloudDeveloperManual', u'Nextcloud Developer Manual',
-   u'The Nextcloud developers', 'Nextcloud', 'The Nextcloud Developer Manual.',
+   u'The Nextcloud developers', 'Nextcloud1', 'The Nextcloud Developer Manual.',
    'Miscellaneous'),
 ]
 
