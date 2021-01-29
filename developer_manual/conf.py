@@ -47,8 +47,6 @@ master_doc = 'index'
 project = u'Medical Cloud %s Developer Manual' % (version)
 #copyright = u'2012-2017, The Nextcloud developers'
 
-formats = ['htmlzip']
-
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
