@@ -54,7 +54,7 @@ else:
 
 html_context = {
 	'current_version': version,
-	'READTHEDOCS': True,
+	'READTHEDOCS': False,
 	'extra_css_files': ['_static/custom.css'],
 	# force github plugin
 	#'display_github': True,
